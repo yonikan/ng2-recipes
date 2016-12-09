@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
-import { RecipeBookAppComponent } from "./recipe-book.component";
+import { RecipeBookAppComponent } from "./app.component";
 import { HeaderComponent } from "./header.component";
 import { DropdownDirective } from "./dropdown.directive";
 import { ShoppingListAddComponent } from "./shopping-list/shopping-list-add.component";
