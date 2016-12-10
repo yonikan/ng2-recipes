@@ -4,6 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'rb-header',
   templateUrl: 'header.component.html'
 })
+
 export class HeaderComponent implements OnInit {
 
   constructor() {}

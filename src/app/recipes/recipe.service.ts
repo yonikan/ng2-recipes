@@ -4,6 +4,7 @@ import { Recipe } from "./recipe";
 import { Ingredient } from "../shared";
 
 @Injectable()
+
 export class RecipeService {
   private recipes: Recipe[] = [
     new Recipe('Schnitzel', 'Very tasty', 'http://images.derberater.de/files/imagecache/456xXXX_berater/berater/slides/WienerSchnitzel.jpg', [

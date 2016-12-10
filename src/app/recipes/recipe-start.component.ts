@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
   `,
   styles: []
 })
+
 export class RecipeStartComponent implements OnInit {
 
   constructor() { }
